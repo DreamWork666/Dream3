@@ -1,0 +1,33 @@
+/* HEADER */
+header{
+   postion: sticky;
+   top: 0;
+   padding: 10px;
+   z-index: 1000;
+   backround: #fff;
+   -webkit-box-shadow: 0 5px 20px rgba(0, 0, 0, 0.10);
+     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.10);
+}
+
+
+.header__img{
+    height: 128px;
+    width: 128px;
+
+}
+
+/* HEADER1 */
+.header1__img{
+     height: 350px;
+     width: 350px;
+
+
+
+
+}
+
+/* HEADER3 */
+header3__img{
+     height: 120px;
+     width: 120px;
+}
