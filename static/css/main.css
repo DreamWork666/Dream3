@@ -27,7 +27,7 @@ header{
 }
 
 /* HEADER3 */
-header3__img{
-     height: 120px;
-     width: 120px;
-}
+
+.header3__img{
+       height: 360px;
+     width: 360px;
